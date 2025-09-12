@@ -1,41 +1,48 @@
-# NGO Donation Management System (Salesforce Project)
+# 🌍 AI-Powered NGO Donation & Impact Management System
 
 ## 📌 Overview
-A **Salesforce-based CRM solution** for NGOs to manage donors, track donations, monitor campaigns, and view real-time dashboards — improving transparency and donor trust.  
-Project developed as part of **TCS LastMile Salesforce Phase 2**.
+A Salesforce CRM that helps NGOs manage donors, track donations, run campaigns, and measure impact — all in one place.  
+Uses **Einstein AI** (in future phases) for donor scoring and campaign recommendations.
 
 ---
 
-## 🏆 Problem Statement
-NGOs using spreadsheets face duplicate donor data, delayed receipts, and poor campaign visibility.  
-This reduces donor trust and impacts funding.
+## 🎯 Problem
+NGOs face challenges like:
+- Missed or untracked donations  
+- Duplicate donor records  
+- No automated follow-up or thank-you process  
+- Difficulty showing donors how funds are used  
+- Lack of real-time reports for decision-making  
 
 ---
 
 ## 💡 Solution
-- Centralized donor & campaign data  
-- Automated donation tracking & instant receipts  
-- Campaign monitoring & live dashboards  
-- Transparent reporting for management
+Our Salesforce solution:
+- Centralizes donor data  
+- Tracks donations & auto-generates receipts  
+- Sends instant thank-you emails/SMS  
+- Manages campaigns & shows progress in real-time  
+- Provides dashboards for quick insights  
 
 ---
 
-## 🔑 Use Cases
-1. **Donor Registration & History Tracking**  
-2. **Donation Tracking & Automated Receipts**  
-3. **Campaign Creation & Monitoring**  
-4. **Real-Time Reporting & Insights**
+## 📌 Project Phases
+
+### Phase 1 ✅ – Requirement Gathering & Analysis
+- Stakeholder analysis  
+- Business process mapping  
+- Data model design (Donor, Donation, Campaign objects)
+
+ 
+---
+
+## 🛠 Tech Stack
+Salesforce | Profiles & Roles | Permission Sets | OWD | Sandbox | Deployment Basics  
 
 ---
 
-## 🛠 Approach
-Requirement gathering, stakeholder analysis, business process mapping, industry use case analysis, and AppExchange exploration.
+## 📊 Visuals
+![Business Process Flow](Business_Process_Flow_HD.png)  
+![ERD](NGO_Project_ERD_HD.png)
 
----
 
-## 🎯 Why It Matters
-Boosts NGO efficiency, builds donor trust, and supports funding decisions — making it a practical, real-world solution.
-
----
-
-**Author:** Dara Harini | TCS LastMile Salesforce Phase 2
